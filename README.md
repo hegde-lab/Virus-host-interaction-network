@@ -1,4 +1,13 @@
 # Virus-host-interaction-network
 
 
-Our goal is to simplify the understanding of bipartite networks for users. To do this, we've provided a dummy dataset representing interactions between host and virus proteins. Additionally, we've included an R script with user-friendly code to make it easier for you to work with data of your choice.
+
+Our aim is to make it easier for users to grasp the concept of bipartite networks. To achieve this, we've taken a sample dataset that showcases interactions between host and virus proteins. We've also included a user-friendly R script with simple code that allows you to work with your own data effortlessly.
+
+The sample data used here is obtained from the VirusMINT database, which you can access at https://maayanlab.cloud/Harmonizome/dataset/Virus+MINT+Protein-Viral+Protein+Interactions.
+
+
+
+
+
+
